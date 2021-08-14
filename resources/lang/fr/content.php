@@ -1,0 +1,45 @@
+<?php
+
+
+
+return [
+    "home"=>"Accueil",
+    "shop"=>"Boutique",
+    "ventes_flash"=>"Ventes Flash",
+    "meilleures_ventes"=>"Meilleures Ventes",
+    "register"=>"S'INSCRIRE",
+    "Trending Item" =>"Article tendance",
+    "all_article"=> "Tous les Articles",
+    "home_and_office" => "Maison et Bureau",
+    "woman_fashion"=>"Mode Femme",
+    "men_fashion"=>"Mode Femme",
+    "car"=>"Voiture",
+    "On_sale" => "En Soldes",
+    "Top_Viewed" => "Meilleures Vues",
+    "New_shipment" => "Nouvel Arrivage",
+    "Current_trends" => "Les Tendances Actuelles",
+    "Free_shiping" => "Livraison gratuite",
+    "FREE_RETURN" => "Retour Gratuit",
+    "SUCURE_PAYMENT" => "PAIEMENT SÉCURISÉ",
+    "BEST_PEICE" => "MEILLEUR PRIX",
+    "Newsletter"=> "Abonnez-vous à notre newsletter et obtenez 10% de réduction sur votre premier achat",
+    "Subscribe"=> "S'abonner",
+    "Home_and_Office" => "Maison et Bureau",
+    "Woman_fashion" => "Mode Femme",
+    "Man_fashion" => "Mode Homme",
+    "Car" => "Voiture",
+    "Customer_Service" => "Service Clients",
+    "Vente_flash" => "Vente flash",
+    "Hot_Item" => "Meilleurs Ventes",
+    "Recent_post" => "Post récent",
+    "Manufacturers" => "Fabricants",
+    "Login" => "Connexion",
+    "Please_register" => "Veuillez vous inscrire pour payer plus rapidement",
+    "Your_Email" => "Votre e-mail",
+    "Your_Password" => "Votre mot de passe",
+    "Register" => "S'inscrire",
+    "Lost_your_password" => "Mot de passe oublier",
+    "E-Mail_Address" => "Adresse e-mail",
+    "Shop_by_Price" => "PRIX"
+
+];
